@@ -1,7 +1,6 @@
 # Evasion_attack
 
 - 2017 FGSM
-- I-FGSM
 - 2017 PGD
 - 2017 Adversarial Patch
 - 2016 DeepFool
